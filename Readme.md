@@ -2,11 +2,12 @@
 
 Lending Club Case Study
 
-##Table of Contents
-General Info
-Technologies Used
-Conclusions
-Acknowledgements
+##Table of Contents\n
+General Info\n
+Technologies Used\n
+Conclusions\n
+Acknowledgements\n
+
 General Information
 As a part of a Consumer Lending Finance Company, which specialises in lending various types of loans, we need to identify the patterns which indicates if a loan is likely to Default. When the company receives a loan application, it has to make a decision for loan approval based on applicant's profile. This decisioning is associated with 2 kinds of risks;
 
